@@ -1,0 +1,15 @@
+.backColor{
+    background-color:#1976d2;
+    padding: 30px 0;
+}
+.footerBtn{
+    color:#ffffff !important;
+}
+a{
+    text-decoration: none;
+    color:#ffffff;
+    padding:10px 0 0 10px
+}
+.flex{
+    display: flex;
+}
